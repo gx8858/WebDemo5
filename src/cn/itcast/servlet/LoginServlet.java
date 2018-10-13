@@ -14,6 +14,9 @@ import org.apache.commons.beanutils.ConvertUtils;
 import cn.itcast.domain.User;
 import cn.itcast.utils.MyDateConverter;
 
+/**
+ * 使用beanutils工具来封装数据
+ */
 public class LoginServlet extends HttpServlet {
 
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
