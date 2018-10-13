@@ -6,6 +6,9 @@ import java.util.Date;
 
 import org.apache.commons.beanutils.Converter;
 
+/**
+ * 关于beanutils中自定义Date类型转换操作
+ */
 public class MyDateConverter implements Converter {
 
 	// 这个方法是真正完成类型转换的方法
