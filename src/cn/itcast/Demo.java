@@ -14,6 +14,9 @@ import org.junit.Test;
 
 import cn.itcast.domain.User;
 
+/**
+ * 关于beanutils底层实现
+ */
 public class Demo {
 
 	public static void main(String[] args) throws IllegalArgumentException,
