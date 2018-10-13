@@ -5,7 +5,7 @@
 <html>
   <head>
     
-    <title>My JSP 'index.jsp' starting page</title>
+    <title>Model2模式下使用javaBean</title>
   </head>
   
   <body>
